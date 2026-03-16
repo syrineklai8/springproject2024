@@ -1,6 +1,6 @@
 public class Springproject2024Application {
     public static void main(String[] args) {
-        String s = null;
-        System.out.println(s.length());
+        System.out.println("Hello World");
+        throw new RuntimeException("Test failure");
     }
 }
