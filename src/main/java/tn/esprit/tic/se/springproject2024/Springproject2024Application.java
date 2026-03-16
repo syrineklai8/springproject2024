@@ -1,1 +1,1 @@
-// Added a harmless comment
+public class Springproject2024Application { public static void main(String[] args) { System.out.println("Hello World") } }
