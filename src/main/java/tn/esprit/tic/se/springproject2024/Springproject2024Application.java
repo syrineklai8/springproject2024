@@ -1,1 +1,6 @@
-// No modification, the code remains the same
+public class Springproject2024Application {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+        int x = 1 / 0;
+    }
+}
